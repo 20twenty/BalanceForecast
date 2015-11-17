@@ -4,7 +4,6 @@ from sklearn.ensemble import AdaBoostRegressor
 from sklearn.ensemble import BaggingRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn import cross_validation
-import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import math as math
